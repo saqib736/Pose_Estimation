@@ -1,0 +1,16 @@
+MANIFEST.in
+setup.py
+common/gason.cpp
+common/gason.h
+common/maskApi.c
+common/maskApi.h
+halpecocotools/__init__.py
+halpecocotools/_mask.c
+halpecocotools/coco.py
+halpecocotools/cocoeval.py
+halpecocotools/mask.py
+halpecocotools.egg-info/PKG-INFO
+halpecocotools.egg-info/SOURCES.txt
+halpecocotools.egg-info/dependency_links.txt
+halpecocotools.egg-info/requires.txt
+halpecocotools.egg-info/top_level.txt
